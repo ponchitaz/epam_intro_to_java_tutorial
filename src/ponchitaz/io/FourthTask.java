@@ -21,6 +21,7 @@ public class FourthTask {
             String[] parsedArray = rawInput.split(".");
 
             System.out.println(parsedArray);
+            System.out.println("hello goodbye");
 
             //System.out.println("After the magic is done we get: " + parsedArray[1] + "." + parsedArray[0]);
             //System.out.println("After the magic is done we get: " + Array.get(parsedArray, 1) + "." + Array.get(parsedArray, 0));
